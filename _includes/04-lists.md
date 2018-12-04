@@ -1,3 +1,3 @@
-1. :+1:
-2. :heart:
-   1. :sparkles:
+- :+1:
+- :heart:
+  -:sparkles:
