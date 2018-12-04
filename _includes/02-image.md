@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Nino](https://www.google.com/imgres?imgurl=http%3A%2F%2Fup.gc-img.net%2Fpost_img_web%2F2014%2F11%2Ff70e0206e1fdbc4af206bd0242416df9_27209.jpeg&imgrefurl=http%3A%2F%2Fminuskakugo.blogspot.com%2F2014%2F11%2Fninomiya-kazunari-has-best-skin-in.html&docid=_nHmJQyC4h33yM&tbnid=qp44PoIzxdzUTM%3A&vet=10ahUKEwjx1bfR6YbfAhUll1QKHSKKARgQMwimASgwMDA..i&w=500&h=498&bih=771&biw=1368&q=ninomiya%20kazunari&ved=0ahUKEwjx1bfR6YbfAhUll1QKHSKKARgQMwimASgwMDA&iact=mrc&uact=8)
